@@ -1,0 +1,34 @@
+body{background-image:url(https://cnnespanol.cnn.com/wp-content/uploads/2023/02/Galeria-fotos-SophiaHutchinson001-scaled-1.jpeg?quality=100&strip=info);
+    background-size:cover;
+    font-family: Cambria;}
+form{font-size: 40px;}
+
+.formu{color: blueviolet;}
+
+.inicio{margin-left: 150px;
+    background-color: red;
+    font-size: 30px;border: 5px solid black}
+
+.curiosidades{margin-left: 150px;
+background-color: red;
+font-size: 30px;border: 5px solid black}
+
+.razas{margin-left: 150px;
+    background-color: red;
+    font-size: 30px;border: 5px solid black}
+
+.registro{margin-left: 150px;
+    background-color: red;
+    font-size: 30px;border: 5px solid black;}
+
+p{display: inline-block;}
+
+.dogue{color:gray}
+
+.historia{margin-left: 500px;font-size: 50px;}
+
+.perro{font-size: 30px;}
+
+footer{margin-left: 500px;}
+
+article{font-size: 30px;}
